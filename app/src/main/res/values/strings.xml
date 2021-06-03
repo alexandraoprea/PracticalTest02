@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practical Test 02</string>
+    <string name="server">POKEDEX - Server</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="client">POKEDEX - Client</string>
+    <string name="client_address">Name</string>
+    <string name="client_port">Port</string>
+    <string name="city">City</string>
+    <string name="information_type">Information Type</string>
+    <string name="get_weather_forecast">Get info</string>
+    <string-array name="information_types">
+        <item>types</item>
+        <item>abilities</item>
+        <item>all</item>
+    </string-array>
+</resources>
